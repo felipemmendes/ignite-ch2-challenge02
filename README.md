@@ -1,6 +1,6 @@
 # Ignite React - Chapter 02: Challenge 02
 
-Custom hooks.
+TypeScript and functional components.
 
 ### [Challenge guideline](https://www.notion.so/Desafio-02-Refactoring-de-classes-e-typescript-4571541e7f8c4799bd191b6cfb53802c)
 
